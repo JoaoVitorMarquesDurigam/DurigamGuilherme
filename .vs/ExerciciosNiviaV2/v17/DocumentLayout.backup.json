@@ -3,6 +3,18 @@
   "WorkspaceRootPath": "F:\\2A-DS-PI\\DurigameGuilherme\\DS\\ExerciciosNiviaV2\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{B5B38F11-01F0-42C0-A50F-AC410BA6F20D}|ExerciciosNiviaV2\\ExerciciosNiviaV2.csproj|f:\\2a-ds-pi\\durigameguilherme\\ds\\exerciciosniviav2\\exerciciosniviav2\\exer2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5B38F11-01F0-42C0-A50F-AC410BA6F20D}|ExerciciosNiviaV2\\ExerciciosNiviaV2.csproj|solutionrelative:exerciciosniviav2\\exer2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5B38F11-01F0-42C0-A50F-AC410BA6F20D}|ExerciciosNiviaV2\\ExerciciosNiviaV2.csproj|f:\\2a-ds-pi\\durigameguilherme\\ds\\exerciciosniviav2\\exerciciosniviav2\\exer2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B5B38F11-01F0-42C0-A50F-AC410BA6F20D}|ExerciciosNiviaV2\\ExerciciosNiviaV2.csproj|solutionrelative:exerciciosniviav2\\exer2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5B38F11-01F0-42C0-A50F-AC410BA6F20D}|ExerciciosNiviaV2\\ExerciciosNiviaV2.csproj|f:\\2a-ds-pi\\durigameguilherme\\ds\\exerciciosniviav2\\exerciciosniviav2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5B38F11-01F0-42C0-A50F-AC410BA6F20D}|ExerciciosNiviaV2\\ExerciciosNiviaV2.csproj|solutionrelative:exerciciosniviav2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{B5B38F11-01F0-42C0-A50F-AC410BA6F20D}|ExerciciosNiviaV2\\ExerciciosNiviaV2.csproj|f:\\2a-ds-pi\\durigameguilherme\\ds\\exerciciosniviav2\\exerciciosniviav2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{B5B38F11-01F0-42C0-A50F-AC410BA6F20D}|ExerciciosNiviaV2\\ExerciciosNiviaV2.csproj|solutionrelative:exerciciosniviav2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
@@ -19,6 +31,44 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Exer2.cs",
+              "DocumentMoniker": "F:\\2A-DS-PI\\DurigameGuilherme\\DS\\ExerciciosNiviaV2\\ExerciciosNiviaV2\\Exer2.cs",
+              "RelativeDocumentMoniker": "ExerciciosNiviaV2\\Exer2.cs",
+              "ToolTip": "F:\\2A-DS-PI\\DurigameGuilherme\\DS\\ExerciciosNiviaV2\\ExerciciosNiviaV2\\Exer2.cs",
+              "RelativeToolTip": "ExerciciosNiviaV2\\Exer2.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAqwBIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T11:31:23.8Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Exer2.cs [Design]",
+              "DocumentMoniker": "F:\\2A-DS-PI\\DurigameGuilherme\\DS\\ExerciciosNiviaV2\\ExerciciosNiviaV2\\Exer2.cs",
+              "RelativeDocumentMoniker": "ExerciciosNiviaV2\\Exer2.cs",
+              "ToolTip": "F:\\2A-DS-PI\\DurigameGuilherme\\DS\\ExerciciosNiviaV2\\ExerciciosNiviaV2\\Exer2.cs [Design]",
+              "RelativeToolTip": "ExerciciosNiviaV2\\Exer2.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T11:28:09.301Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "F:\\2A-DS-PI\\DurigameGuilherme\\DS\\ExerciciosNiviaV2\\ExerciciosNiviaV2\\Form1.cs",
+              "RelativeDocumentMoniker": "ExerciciosNiviaV2\\Form1.cs",
+              "ToolTip": "F:\\2A-DS-PI\\DurigameGuilherme\\DS\\ExerciciosNiviaV2\\ExerciciosNiviaV2\\Form1.cs",
+              "RelativeToolTip": "ExerciciosNiviaV2\\Form1.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAqwB4AAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T11:09:06.953Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "Form1.cs [Design]",
               "DocumentMoniker": "F:\\2A-DS-PI\\DurigameGuilherme\\DS\\ExerciciosNiviaV2\\ExerciciosNiviaV2\\Form1.cs",
               "RelativeDocumentMoniker": "ExerciciosNiviaV2\\Form1.cs",

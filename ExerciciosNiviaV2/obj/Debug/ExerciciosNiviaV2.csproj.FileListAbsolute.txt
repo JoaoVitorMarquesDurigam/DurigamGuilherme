@@ -1,0 +1,10 @@
+F:\2A-DS-PI\DurigameGuilherme\DS\ExerciciosNiviaV2\ExerciciosNiviaV2\bin\Debug\ExerciciosNiviaV2.exe.config
+F:\2A-DS-PI\DurigameGuilherme\DS\ExerciciosNiviaV2\ExerciciosNiviaV2\bin\Debug\ExerciciosNiviaV2.exe
+F:\2A-DS-PI\DurigameGuilherme\DS\ExerciciosNiviaV2\ExerciciosNiviaV2\bin\Debug\ExerciciosNiviaV2.pdb
+F:\2A-DS-PI\DurigameGuilherme\DS\ExerciciosNiviaV2\ExerciciosNiviaV2\obj\Debug\ExerciciosNiviaV2.csproj.AssemblyReference.cache
+F:\2A-DS-PI\DurigameGuilherme\DS\ExerciciosNiviaV2\ExerciciosNiviaV2\obj\Debug\ExerciciosNiviaV2.Form1.resources
+F:\2A-DS-PI\DurigameGuilherme\DS\ExerciciosNiviaV2\ExerciciosNiviaV2\obj\Debug\ExerciciosNiviaV2.Properties.Resources.resources
+F:\2A-DS-PI\DurigameGuilherme\DS\ExerciciosNiviaV2\ExerciciosNiviaV2\obj\Debug\ExerciciosNiviaV2.csproj.GenerateResource.cache
+F:\2A-DS-PI\DurigameGuilherme\DS\ExerciciosNiviaV2\ExerciciosNiviaV2\obj\Debug\ExerciciosNiviaV2.csproj.CoreCompileInputs.cache
+F:\2A-DS-PI\DurigameGuilherme\DS\ExerciciosNiviaV2\ExerciciosNiviaV2\obj\Debug\ExerciciosNiviaV2.exe
+F:\2A-DS-PI\DurigameGuilherme\DS\ExerciciosNiviaV2\ExerciciosNiviaV2\obj\Debug\ExerciciosNiviaV2.pdb
