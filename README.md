@@ -26,7 +26,7 @@ Nono passo:
 Mandar o commit para o repositorio remoto com o git push -u origin main.
 
 
-Prints (notação: o criador do repositorio esqueceu de tirar print quando fez esse, então ele usou um trabalho rascunho e um repositorio diferent pare demonstrar os comandos em ação.):
+Prints (notação: o criador do repositorio esqueceu de tirar print quando fez esse, então ele usou um trabalho rascunho e um repositorio diferente para demonstrar os comandos em ação.):
 
 ![image](https://github.com/user-attachments/assets/c44dd02e-3626-4897-b9eb-bb5be56eac56)
 ![image](https://github.com/user-attachments/assets/214b7825-7afa-4b30-a3a7-47830ad2387d)
