@@ -32,5 +32,17 @@ namespace ExerciciosNiviaV2
                 }
             }
         }
+
+        private void btnmudar_Click(object sender, EventArgs e)
+        { 
+            this.Close();
+            Exer2 exersecun = new Exer2();
+            exersecun.Show();
+        }
+
+        private void btnfechar_Click(object sender, EventArgs e)
+        {
+            Application.Exit();
+        }
     }
 }

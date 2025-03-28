@@ -32,7 +32,8 @@
             this.txtpar = new System.Windows.Forms.RichTextBox();
             this.lblpar = new System.Windows.Forms.Label();
             this.btnlimpar = new System.Windows.Forms.Button();
-            this.btnvoltar = new System.Windows.Forms.Button();
+            this.btnmudar = new System.Windows.Forms.Button();
+            this.btnfechar = new System.Windows.Forms.Button();
             this.SuspendLayout();
             // 
             // btncalcular
@@ -69,24 +70,36 @@
             this.btnlimpar.Name = "btnlimpar";
             this.btnlimpar.Size = new System.Drawing.Size(119, 45);
             this.btnlimpar.TabIndex = 3;
-            this.btnlimpar.Text = "button2";
+            this.btnlimpar.Text = "Limpar";
             this.btnlimpar.UseVisualStyleBackColor = true;
             // 
-            // btnvoltar
+            // btnmudar
             // 
-            this.btnvoltar.Location = new System.Drawing.Point(505, 335);
-            this.btnvoltar.Name = "btnvoltar";
-            this.btnvoltar.Size = new System.Drawing.Size(112, 45);
-            this.btnvoltar.TabIndex = 4;
-            this.btnvoltar.Text = "button3";
-            this.btnvoltar.UseVisualStyleBackColor = true;
+            this.btnmudar.Location = new System.Drawing.Point(505, 335);
+            this.btnmudar.Name = "btnmudar";
+            this.btnmudar.Size = new System.Drawing.Size(112, 45);
+            this.btnmudar.TabIndex = 4;
+            this.btnmudar.Text = "Mudar";
+            this.btnmudar.UseVisualStyleBackColor = true;
+            this.btnmudar.Click += new System.EventHandler(this.btnmudar_Click);
+            // 
+            // btnfechar
+            // 
+            this.btnfechar.Location = new System.Drawing.Point(668, 335);
+            this.btnfechar.Name = "btnfechar";
+            this.btnfechar.Size = new System.Drawing.Size(109, 45);
+            this.btnfechar.TabIndex = 5;
+            this.btnfechar.Text = "Fechar";
+            this.btnfechar.UseVisualStyleBackColor = true;
+            this.btnfechar.Click += new System.EventHandler(this.btnfechar_Click);
             // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(800, 450);
-            this.Controls.Add(this.btnvoltar);
+            this.Controls.Add(this.btnfechar);
+            this.Controls.Add(this.btnmudar);
             this.Controls.Add(this.btnlimpar);
             this.Controls.Add(this.lblpar);
             this.Controls.Add(this.txtpar);
@@ -104,7 +117,8 @@
         private System.Windows.Forms.RichTextBox txtpar;
         private System.Windows.Forms.Label lblpar;
         private System.Windows.Forms.Button btnlimpar;
-        private System.Windows.Forms.Button btnvoltar;
+        private System.Windows.Forms.Button btnmudar;
+        private System.Windows.Forms.Button btnfechar;
     }
 }
 

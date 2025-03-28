@@ -8,3 +8,4 @@ F:\2A-DS-PI\DurigameGuilherme\DS\ExerciciosNiviaV2\ExerciciosNiviaV2\obj\Debug\E
 F:\2A-DS-PI\DurigameGuilherme\DS\ExerciciosNiviaV2\ExerciciosNiviaV2\obj\Debug\ExerciciosNiviaV2.csproj.CoreCompileInputs.cache
 F:\2A-DS-PI\DurigameGuilherme\DS\ExerciciosNiviaV2\ExerciciosNiviaV2\obj\Debug\ExerciciosNiviaV2.exe
 F:\2A-DS-PI\DurigameGuilherme\DS\ExerciciosNiviaV2\ExerciciosNiviaV2\obj\Debug\ExerciciosNiviaV2.pdb
+F:\2A-DS-PI\DurigameGuilherme\DS\ExerciciosNiviav2\ExerciciosNiviaV2\obj\Debug\ExerciciosNiviaV2.Exer2.resources
