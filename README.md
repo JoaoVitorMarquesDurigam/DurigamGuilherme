@@ -1,3 +1,5 @@
+João Vitor Marques Durigam e Guilherme Silva dos Santos.
+
 Primeiro passo:
 Criar um repositorio
 
